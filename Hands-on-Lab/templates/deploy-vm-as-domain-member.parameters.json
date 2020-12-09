@@ -18,19 +18,19 @@
             "value": "Standard_D2s_v3"
         },
         "domainToJoin": {
-            "value": "mcw.local"
+            "value": "cws1209.com"
         },
         "domainUsername": {
             "value": "domainAdmin"
         },
         "domainPassword": {
-            "value": "Password.1!!"
+            "value": "Password@1209"
         },
         "adminUsername": {
             "value": "AzureUser"
         },
         "adminPassword": {
-            "value": "Password.1!!"
+            "value": "Password@1209"
         }
     }
 }
